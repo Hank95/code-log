@@ -22,8 +22,8 @@ title: Code Log
 email: hhpendleton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog on all things Web Development!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/code-log" # the subpath of your site, e.g. /blog
+url: "https://hank95.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
